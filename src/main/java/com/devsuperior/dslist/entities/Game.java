@@ -20,7 +20,7 @@ public class Game {
     private String title;
 
     @Column(name = "game_year")
-    private Integer year;
+    private Integer year;//year é palavra privada do postgress
 
     private String genre;
     private String platform;
