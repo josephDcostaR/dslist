@@ -132,8 +132,4 @@ public class Game {
     public int hashCode() {
         return Objects.hash(id);
     }
-
-    
-    
-
 }
