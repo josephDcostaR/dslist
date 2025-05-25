@@ -90,11 +90,12 @@ Realiza a troca de posição entre os jogos dentro da lista.
 ✅ Antes da troca:  
 ![post-1-antes](https://github.com/user-attachments/assets/ccbf2297-dd86-414f-b202-e963ecb11ffe)
 
-✅ Troca de posições feita via Postman:  
-![post-1-depois](https://github.com/user-attachments/assets/3d7f71cc-cf42-4981-a6cf-32b26fe9c7cf)
+✅ Troca de posições feita via Postman: 
+![post-1-postman](https://github.com/user-attachments/assets/cec4f12e-8f18-43d9-ab14-c127ffaf4a7b)
+
 
 ✅ Resultado após a troca:  
-![post-1-postman](https://github.com/user-attachments/assets/cec4f12e-8f18-43d9-ab14-c127ffaf4a7b)
+![post-1-depois](https://github.com/user-attachments/assets/3d7f71cc-cf42-4981-a6cf-32b26fe9c7cf)
 
 ---
 
